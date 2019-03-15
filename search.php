@@ -1,3 +1,15 @@
+<?php
+
+  include 'functions.php';
+
+  echo '<b>'.calculateAge().'';
+
+?>
+
+
+
+
+
 <?php include "includes/header.php" ?> 
 
 <table class="table table-hover" style="margin-top:20px";>
