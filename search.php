@@ -3,6 +3,8 @@
   include 'functions.php';
 
   echo '<b>'.calculateAge().'';
+  echo 'added more items';
+
 
 ?>
 
